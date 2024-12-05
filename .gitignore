@@ -1,0 +1,22 @@
+# Ignore environment variables
+.env
+
+# Ignore dataset files
+*.csv
+*.zip
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
