@@ -1,4 +1,4 @@
-### Python to PostgreSQL connection and integration through several steps.
+ Python to PostgreSQL connection and integration through several steps.
 
 # 1) Download the dataset from kaggle, using the API - downloaded token should be stored in the # C\Users\User\.kaggle\ to be able to download the dataset
 
